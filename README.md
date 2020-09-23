@@ -13,3 +13,6 @@ As a baseline, a statistical model is included to measure if the machine learnin
 superior predictive capability. We observed that the machine learning models performed slightly
 better than the statistical baseline. This shows that machine learning has the capability of better
 predicting market demand than statistical models
+
+# Data
+The data-set we used for this project is the Corporación Favorita Grocery Sales Forecasting data-set from kaggle https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data
